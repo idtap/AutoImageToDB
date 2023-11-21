@@ -1,0 +1,2 @@
+是否多工,是否sde式,每次處理幾檔,zip存放路徑,流程檔connectString,星種參數檔名,預設優先序
+Y,N,3,"D:\安康\AutoImageToDB\input_zips\","DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=.\flowControl.mdb","D:\安康\AutoImageToDB\config.csv",9999

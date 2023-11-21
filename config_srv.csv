@@ -1,0 +1,5 @@
+星種ID,星種種類,bits,MetaData副檔名,是否需PanSharpen,gdb檔名,16bit存放路徑,8bit存放路徑,16bitDataset名,8bitDataset名,PanSharpen_bit_1,PanSharpen_bit_2,PanSharpen_bit_3,PanSharpen_bit_4
+WV02,WorldView-2,16,.IMD,Y,D:\安康\AutoImageToDB\WV02.gdb,D:\安康\AutoImageToDB\source_ImageFiles\WV02\16bit,D:\安康\AutoImageToDB\source_ImageFiles\WV02\8bit,WV02_16,WV02_8,3,2,1,4
+WV03,WorldView-3,16,.IMD,Y,D:\安康\AutoImageToDB\WV03.gdb,D:\安康\AutoImageToDB\source_ImageFiles\WV03\16bit,D:\安康\AutoImageToDB\source_ImageFiles\WV03\8bit,WV03_16,WV03_8,3,2,1,4
+WV04,WorldView-4,16,.IMD,Y,D:\安康\AutoImageToDB\WV04.gdb,D:\安康\AutoImageToDB\source_ImageFiles\WV04\16bit,D:\安康\AutoImageToDB\source_ImageFiles\WV04\8bit,WV04_16,WV04_8,3,2,1,4
+GE01,GeoEye-1,16,_metadata.txt,Y,D:\安康\AutoImageToDB\GE01.gdb,D:\安康\AutoImageToDB\source_ImageFiles\GE01\16bit,D:\安康\AutoImageToDB\source_ImageFiles\GE01\8bit,GE01_16,GE01_8,3,2,1,4

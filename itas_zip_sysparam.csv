@@ -1,0 +1,2 @@
+"待壓縮根路徑","zip自動匯入路徑","流程檔connectString","每次執行壓縮幾檔","待壓暫存路徑"
+"D:\安康\AutoImageToDB\itas_local_T50\","D:\安康\AutoImageToDB\itas_input_zips\","DSN=PostgreSQL35W",1,"D:\安康\AutoImageToDB\itas_zip_temp\"

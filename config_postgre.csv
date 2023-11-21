@@ -1,0 +1,12 @@
+﻿星種ID,星種種類,bits,MetaData副檔名,是否需PanSharpen,gdb檔名,16bitDataset名,8bitDataset名,PanSharpen_bit_1,PanSharpen_bit_2,PanSharpen_bit_3,PanSharpen_bit_4,自己Pan,星種XML
+WV01,WorldView-1,16,.IMD,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.wv01,sde.sde.wv01_8,3,2,1,4,Y,WorldView-1
+WV02,WorldView-2,16,.IMD,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.wv02,sde.sde.wv02_8,3,2,1,4,N,WorldView-2
+WV03,WorldView-3,16,.IMD,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.wv03,sde.sde.wv03_8,3,2,1,4,N,D:\安康\AutoImageToDB\WorldView-3.art.xml
+WV04,WorldView-4,16,.IMD,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.wv04,sde.sde.wv04_8,3,2,1,4,N,WorldView-4
+oldGE01,GeoEye-1,16,_metadata.txt,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.ge01,sde.sde.ge01_8,3,2,1,4,N,GeoEye-1
+GE01,GeoEye-1,16,.IMD,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.ge01,sde.sde.ge01_8,3,2,1,4,N,GeoEye-1
+BS01,BlackSky,16,_metadata.json,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.BSK01,sde.sde.BS01_8,3,2,1,4,Y,BlackSky
+PS01,PlanetScope,16,.TIF,N,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.PS01,sde.sde.PS01_8,3,2,1,4,Y,PlanetScope
+PHR01,Pleiades-1,16,.DIM,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.PHR01,sde.sde.PHR01_8,3,2,1,4,Y,Pleiades-1
+SKY01,SkySat-C,16,.json,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.SKY01,sde.sde.SKY01_8,3,2,1,4,Y,SkySat-C
+Other01,Other,8,.tif,N,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.Other_8,sde.sde.Other_8,3,2,1,4,N,Other

@@ -1,0 +1,2 @@
+﻿"每次處理幾檔","流程檔connectString","星種參數檔名","RasterDatasetXML"
+1,"DSN=PostgreSQL35W","D:\安康\AutoImageToDB\config_postgre.csv","D:\安康\AutoImageToDB\RasterDataset1.art.xml"

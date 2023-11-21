@@ -1,0 +1,5 @@
+星種ID,星種種類,bits,MetaData副檔名,是否需PanSharpen,gdb檔名,16bit存放路徑,8bit存放路徑,16bitDataset名,8bitDataset名,PanSharpen_bit_1,PanSharpen_bit_2,PanSharpen_bit_3,PanSharpen_bit_4
+WV02,WorldView-2,16,.IMD,Y,D:\安康\AutoImageToDB\connect_postgres.sde,D:\安康\AutoImageToDB\source_ImageFiles\WV02\16bit,D:\安康\AutoImageToDB\source_ImageFiles\WV02\8bit,sde.sde.wv02,sde.sde.wv02_8,3,2,1,4
+WV03,WorldView-3,16,.IMD,Y,D:\安康\AutoImageToDB\connect_postgres.sde,D:\安康\AutoImageToDB\source_ImageFiles\WV03\16bit,D:\安康\AutoImageToDB\source_ImageFiles\WV03\8bit,sde.sde.wv03,sde.sde.wv03_8,3,2,1,4
+WV04,WorldView-4,16,.IMD,Y,D:\安康\AutoImageToDB\connect_postgres.sde,D:\安康\AutoImageToDB\source_ImageFiles\WV04\16bit,D:\安康\AutoImageToDB\source_ImageFiles\WV04\8bit,sde.sde.wv04,sde.sde.wv04_8,3,2,1,4
+GE01,GeoEye-1,16,_metadata.txt,Y,D:\安康\AutoImageToDB\connect_postgres.sde,D:\安康\AutoImageToDB\source_ImageFiles\GE01\16bit,D:\安康\AutoImageToDB\source_ImageFiles\GE01\8bit,sde.sde.ge01,sde.sde.ge01_8,3,2,1,4

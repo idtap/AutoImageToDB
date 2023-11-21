@@ -1,0 +1,2 @@
+﻿"LOGDB(1:mdb/2:postgre/3:SQL)","是否多工","是否sde式影像","每次處理幾檔","zip存放路徑","流程檔connectString","星種參數檔名","預設優先序","zip保留根路徑","系統用gdb","原始圖根路徑","錯誤zip存放路徑","RasterDatasetXML"
+2,"Y","Y",1,"D:\安康\AutoImageToDB\input_zips\","DSN=PostgreSQL35W","D:\安康\AutoImageToDB\config_postgre.csv",9999,"D:\安康\AutoImageToDB\zips_stub\","D:\安康\AutoImageToDB\connect_postgres.sde","D:\安康\AutoImageToDB\source_ImageFiles","D:\安康\AutoImageToDB\zip_broken","D:\安康\AutoImageToDB\RasterDataset1.art.xml"

@@ -1,0 +1,2 @@
+"T50根路徑","自動匯入路徑","近端存放根路徑","資料庫Connect","最低待轉數"
+"D:\安康\AutoImageToDB\sourImage_T50\","D:\安康\AutoImageToDB\input_zips\","D:\安康\AutoImageToDB\local_T50\","DSN=PostgreSQL35W",30

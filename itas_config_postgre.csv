@@ -1,0 +1,5 @@
+﻿星種ID,星種種類,bits,MetaData副檔名,是否需PanSharpen,gdb檔名,16bitDataset名,8bitDataset名,PanSharpen_bit_1,PanSharpen_bit_2,PanSharpen_bit_3,PanSharpen_bit_4,自己Pan,星種XML
+WV01,WorldView-1,16,.IMD,N,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.itas_wv01,sde.sde.itas_wv01_8,3,2,1,4,Y,WorldView-1
+PHR01,Pleiades-1,16,.DIM,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.itas_PHR01,sde.sde.itas_PHR01_8,3,2,1,4,Y,Pleiades-1
+BS01,BlackSky,16,_metadata.json,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.itas_BSK01,sde.sde.itas_BS01_8,3,2,1,4,Y,BlackSky
+SKY01,SkySat-C,16,.json,Y,D:\安康\AutoImageToDB\connect_postgres.sde,sde.sde.itas_SKY01,sde.sde.itas_SKY01_8,3,2,1,4,Y,SkySat-C

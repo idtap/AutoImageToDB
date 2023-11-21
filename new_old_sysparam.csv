@@ -1,0 +1,2 @@
+"星種條件","自動匯入路徑","近端存放根路徑","複製用temp暫存","資料庫Connect","最低待轉數"
+"(trim(RasterType)='WorldView-3')","D:\安康\AutoImageToDB\new_input_zips\","D:\安康\AutoImageToDB\new_local_T50\","D:\安康\AutoImageToDB\new_copy_temp\","DSN=PostgreSQL35W",1

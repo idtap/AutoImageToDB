@@ -1,0 +1,2 @@
+"星種條件","自動匯入路徑","近端存放根路徑","複製用temp暫存","資料庫Connect","最低待轉數","圖檔根路徑"
+"(trim(satid)='WV01')","D:\安康\AutoImageToDB\itas_input_zips\","D:\安康\AutoImageToDB\itas_local_T50\","D:\安康\AutoImageToDB\itas_copy_temp\","DSN=PostgreSQL35W",2,"D:\安康\AutoImageToDB\source_ImageFiles\"
